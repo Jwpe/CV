@@ -44,11 +44,14 @@ Obtained an MEng in the Cambridge Engineering Tripos, achieving a **Distinction*
 ## Languages
 
 ### Dutch
-Limited working proficiency - **Ik kan wel nederlands praten en verstaan, maar ik weet niet heel veel technische woorden**
+#### Limited working proficiency 
+Ik kan wel nederlands praten en verstaan, maar ik weet niet heel veel technische woorden.
 ### Spanish
-Basic proficiency - **Hablo un poco más español que francés**
-###French
-Basic proficiency - **Je parle un petit peu de français**
+#### Basic proficiency
+Hablo un poco más español que francés!
+### French
+#### Basic proficiency
+Je parle un petit peu de français.
 
 ## Interests
 
