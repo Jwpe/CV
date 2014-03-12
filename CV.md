@@ -61,7 +61,7 @@ Organised and promoted welfare events	to improve students' quality of life, as w
 
 ### Downing College Frisbee Club Committee (2007-10)
 
-Performed roles of treasurer, team captain, and finally president of the college Ultimate Frisbee club.
+Performed roles of **treasurer**, **team captain**, and finally **president** of the college Ultimate Frisbee club.
 
 ## Interests
 
