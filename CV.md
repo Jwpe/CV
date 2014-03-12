@@ -41,3 +41,8 @@ Obtained an MEng in the Cambridge Engineering Tripos, achieving a **Distinction*
 - **4 A**s at A-level and **1 A** at AS-level
 - **10A*s** and **1 A** at GCSE
 
+## Languages
+
+- Dutch: Limited working proficiency
+- Spanish: Basic proficiency
+- French: Basic proficiency
