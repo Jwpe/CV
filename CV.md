@@ -53,6 +53,16 @@ Hablo un poco más español que francés!
 #### Basic proficiency
 Je parle un petit peu de français.
 
+## Positions of Responsibility
+
+### Downing College Men's Welfare Officer (2010-11)
+
+Organised and promoted welfare events	to improve students' quality of life, as well as raise awareness of important health and wellbeing issues.
+
+### Downing College Frisbee Club Committee (2007-10)
+
+Performed roles of treasurer, team captain, and finally president of the college Ultimate Frisbee club.
+
 ## Interests
 
 ### Learning
