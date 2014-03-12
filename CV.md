@@ -43,6 +43,21 @@ Obtained an MEng in the Cambridge Engineering Tripos, achieving a **Distinction*
 
 ## Languages
 
-- Dutch: Limited working proficiency
-- Spanish: Basic proficiency
-- French: Basic proficiency
+### Dutch
+Limited working proficiency
+### Spanish
+Basic proficiency
+###French
+Basic proficiency
+
+## Interests
+
+### Learning
+Programming best practices, new programming languages, current affairs, scientific developments, everything else.
+### Reading
+Scientific/news publications, fiction
+### Sports
+Cycling, Ultimate Frisbee, skiing
+### Travel
+Exploring foreign cultures, visiting places of natural beauty
+
