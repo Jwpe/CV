@@ -53,11 +53,19 @@ Basic proficiency
 ## Interests
 
 ### Learning
-Programming best practices, new programming languages, current affairs, scientific developments, everything else.
+- Programming best practices
+- New programming languages
+- Current affairs
+- Scientific developments
+- Everything else
 ### Reading
-Scientific/news publications, fiction
+- Scientific/news publications
+- Fiction
 ### Sports
-Cycling, Ultimate Frisbee, skiing
+- Cycling
+- Ultimate Frisbee
+- Skiing
 ### Travel
-Exploring foreign cultures, visiting places of natural beauty
+- Exploring foreign cultures
+- Visiting places of natural beauty
 
