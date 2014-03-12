@@ -45,11 +45,16 @@ Obtained an MEng in the Cambridge Engineering Tripos, achieving a **Distinction*
 ## Languages
 
 ### Dutch
-#### Limited working proficiency
+
+Limited working proficiency
+
 ### Spanish
-#### Basic proficiency
+
+Basic proficiency
+
 ### French
-#### Basic proficiency
+
+Basic proficiency
 
 ## Positions of Responsibility
 
