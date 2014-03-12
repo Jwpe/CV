@@ -1,26 +1,27 @@
 #Jonathan Evans
 
-### Email: jwpevans at gmail
+Software engineer. Cambridge Engineering graduate. Enjoys making things with Python and Coffeescript.
+Contact: **jwpevans at gmail dot com**
 
 ## Experience
 
 ### Closed Loop Labs (2011- )
 #### Software Engineer
 
-Co-founded a **web development consultancy**, working on both internal and third-party projects. Designed and built complex web applications using a variety of programming languages and technologies. 
+Co-founded a **web development consultancy**, working on both internal and third-party projects. Designed and built complex web applications using a variety of programming languages and technologies.
 
-Current project includes architecture, development and management of a **commerical SaaS web application** written in **Python** and **JavaScript**.
+Current project includes architecture, development and management of a **commerical SaaS web application** written in **Python** and **CoffeeScript**.
 
 
 ### University of Cambridge Metabolic Research Laboratories (2010)
 #### Computer Programming Research Assistant
 
-Designed and wrote **Matlab** software for use in data analysis for a research group developing **artificial pancreas** technology. 
+Designed and wrote **Matlab** software for use in data analysis for a research group developing **artificial pancreas** technology.
 
 ### Shell Exploration and Production (2008)
 #### iWells Team, Summer Intern
 
-Developed, tested and analysed data from **fibre-optic pressure sensors** for use in oil wells. 
+Developed, tested and analysed data from **fibre-optic pressure sensors** for use in oil wells.
 
 ## Projects
 
@@ -44,20 +45,17 @@ Obtained an MEng in the Cambridge Engineering Tripos, achieving a **Distinction*
 ## Languages
 
 ### Dutch
-#### Limited working proficiency 
-Ik kan wel nederlands praten en verstaan, maar ik weet niet heel veel technische woorden.
+#### Limited working proficiency
 ### Spanish
 #### Basic proficiency
-Hablo un poco más español que francés!
 ### French
 #### Basic proficiency
-Je parle un petit peu de français.
 
 ## Positions of Responsibility
 
 ### Downing College Men's Welfare Officer (2010-11)
 
-Organised and promoted welfare events	to improve students' quality of life, as well as raise awareness of important health and wellbeing issues.
+Organised and promoted welfare events to improve students' quality of life, as well as raise awareness of important health and wellbeing issues.
 
 ### Downing College Frisbee Club Committee (2007-10)
 
@@ -69,8 +67,6 @@ Performed roles of **treasurer**, **team captain**, and finally **president** of
 
 - Programming best practices
 - New programming languages
-- Current affairs
-- Scientific developments
 - Everything else
 
 ### Reading
@@ -88,4 +84,3 @@ Performed roles of **treasurer**, **team captain**, and finally **president** of
 
 - Exploring foreign cultures
 - Visiting places of natural beauty
-
