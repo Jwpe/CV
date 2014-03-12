@@ -1,5 +1,5 @@
 gulp = require 'gulp'
-
+rename = require 'gulp-rename'
 markdownpdf = require 'gulp-markdown-pdf'
 
 gulp.task 'build', ->
@@ -7,10 +7,9 @@ gulp.task 'build', ->
         cssPath: '../../../main.css'
     }
 
-    console.log(options.cssPath)
-
-    gulp.src('CV.md')
+    gulp.src('README.md')
         .pipe(markdownpdf(options))
+        .pipe(rename('CV.pdf'))
         .pipe(gulp.dest(''))
 
 gulp.task('default', ['build'])
