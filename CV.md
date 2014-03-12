@@ -31,3 +31,13 @@ Developed an open source **Python** package to help quickly construct pretty **J
 
 ## Education
 
+### Downing College, Cambridge University (2007-11)
+#### BA & Meng (Hons) Engineering
+
+Obtained an MEng in the Cambridge Engineering Tripos, achieving a **Distinction** for my Master's project investigating the **mechanical properties of cell dynamics** through a **C++** software model.
+
+### British School in the Netherlands (1993-2007)
+
+- **4 A**s at A-level and **1 A** at AS-level
+- **10A*s** and **1 A** at GCSE
+
