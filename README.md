@@ -1,27 +1,28 @@
 #Jonathan Evans
 
-Software engineer. Cambridge Engineering graduate. Enjoys making things with Python and Coffeescript.
+Software engineer. Cambridge Engineering graduate. Enjoys making things with Python and JavaScript.
+
 Contact: **jwpevans at gmail dot com**
 
 ## Experience
 
+### TrackMaven (2014-2016)
+#### J-1 Trainee
+Given the opportunity to travel to the USA and train alongside other software engineers to expand knowledge of single-page application development using **AngularJS**.
+
+Learned about the challenges of scaling a commercial web application, as well as growing an engineering team to support said product.
+
 ### Closed Loop Labs (2011- )
 #### Software Engineer
 
-Co-founded a **web development consultancy**, working on both internal and third-party projects. Designed and built complex web applications using a variety of programming languages and technologies.
+Co-founded a **web development consultancy**, working on both internal and third-party projects. Designed and built complex web applications using a variety of programming languages and technologies. Recent work has focussed on **architecture** and **infrastructure** challenges.
 
-Current project includes architecture, development and management of a **commerical SaaS web application** written in **Python** and **CoffeeScript**.
-
+Technologies used include **Django**, **Docker**, **Django REST Framework**.
 
 ### University of Cambridge Metabolic Research Laboratories (2010)
 #### Computer Programming Research Assistant
 
 Designed and wrote **Matlab** software for use in data analysis for a research group developing **artificial pancreas** technology.
-
-### Shell Exploration and Production (2008)
-#### iWells Team, Summer Intern
-
-Developed, tested and analysed data from **fibre-optic pressure sensors** for use in oil wells.
 
 ## Projects
 
@@ -37,24 +38,14 @@ Developed an open source **Python** package to help quickly construct pretty **J
 
 Obtained an MEng in the Cambridge Engineering Tripos, achieving a **Distinction** for my Master's project investigating the **mechanical properties of cell dynamics** through a **C++** software model.
 
-### British School in the Netherlands (1993-2007)
-
-- **4 A**s at A-level and **1 A** at AS-level
-- **10A*s** and **1 A** at GCSE
 
 ## Languages
 
-### Dutch
-
-Limited working proficiency
-
-### Spanish
-
-Basic proficiency
-
-### French
-
-Basic proficiency
+Language | Proficiency
+--- | ---
+Dutch | Limited working
+Spanish | Basic
+French | Basic
 
 ## Positions of Responsibility
 
