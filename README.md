@@ -1,23 +1,24 @@
 #Jonathan Evans
 
-Software engineer. Cambridge Engineering graduate. Enjoys making things with Python and JavaScript.
+Software engineer. Enjoys making things with Python and JavaScript. Good software engineering is as much about communication as coding.
 
 Contact: **jwpevans at gmail dot com**
 
 ## Experience
 
-### TrackMaven (2014-2016)
-#### J-1 Trainee
-Given the opportunity to travel to the USA and train alongside other software engineers to expand knowledge of single-page application development using **AngularJS**.
+### TrackMaven (2012-2016)
+#### Senior Software Maven
 
-Learned about the challenges of scaling a commercial web application, as well as growing an engineering team to support said product.
+One of two engineers hired to build the alpha of a marketing analytics platform, [TrackMaven](http://trackmaven.com/). After creating and launching the initial application, worked to grow the engineering team and develop the product through several rounds of investment in the business. Helped to oversee architectural decisions, build a strong team of enthusiastic engineers and scale the product to hundreds of customers.
 
-### Closed Loop Labs (2011- )
-#### Software Engineer
+Initially built a monolithic application using **Django** on **Heroku**, and then advocated for and helped to transition to a service-based architecture using **Django**, **Flask**, **AngularJS** and **Kafka** with a **Docker** orchestration layer running on **AWS**.
 
-Co-founded a **web development consultancy**, working on both internal and third-party projects. Designed and built complex web applications using a variety of programming languages and technologies. Recent work has focussed on **architecture** and **infrastructure** challenges.
+Focussed on good **REST API** design, **documentation** and developer productivity. Paired with junior engineers, aided in the hiring process and worked to develop a strong team culture.
 
-Technologies used include **Django**, **Docker**, **Django REST Framework**.
+### Closed Loop Labs (2011-2012)
+#### Co-founder / Software Engineer
+
+Co-founded a **web development consultancy**, working on both internal and third-party projects. Designed and built complex web applications using a variety of programming languages and technologies.
 
 ### University of Cambridge Metabolic Research Laboratories (2010)
 #### Computer Programming Research Assistant
@@ -31,10 +32,14 @@ Designed and wrote **Matlab** software for use in data analysis for a research g
 
 Developed an open source **Python** package to help quickly construct pretty **JSON APIs** using [**Flask**](https://www.flask.pocoo.org).
 
+### [Alexandria](https://github.com/Jwpe/alexandria-server)
+
+Working on a continuous, centralised documentation service for teams with codebases spanning many repositories.
+
 ## Education
 
 ### Downing College, Cambridge University (2007-11)
-#### BA & Meng (Hons) Engineering
+#### BA & MEng (Hons) Engineering
 
 Obtained an MEng in the Cambridge Engineering Tripos, achieving a **Distinction** for my Master's project investigating the **mechanical properties of cell dynamics** through a **C++** software model.
 
@@ -46,16 +51,6 @@ Language | Proficiency
 Dutch | Limited working
 Spanish | Basic
 French | Basic
-
-## Positions of Responsibility
-
-### Downing College Men's Welfare Officer (2010-11)
-
-Organised and promoted welfare events to improve students' quality of life, as well as raise awareness of important health and wellbeing issues.
-
-### Downing College Frisbee Club Committee (2007-10)
-
-Performed roles of **treasurer**, **team captain**, and finally **president** of the college Ultimate Frisbee club.
 
 ## Interests
 

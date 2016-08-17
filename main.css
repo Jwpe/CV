@@ -1,9 +1,17 @@
 body {
-    font-family: "Ubuntu", sans-serif;
+    font-family: "Garamond", sans-serif;
     font-size: 0.82em;
 }
 
 
 h1, h2 {
     text-align: center;
+}
+
+h3, a {
+    color: #03a89e;
+}
+
+p {
+    color: #333333;
 }
